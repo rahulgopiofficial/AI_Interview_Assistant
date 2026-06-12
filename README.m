@@ -43,10 +43,8 @@ graph TD
     H --> I[Stop & Evaluate Session]
     I --> J(Decoupled Cloud API: Groq/OpenRouter)
     J --> K[Final Assessment Report: Score & Verdict]
-```
 
 ```text
 SCORE: 8/10
 VERDICT: Pass
 JUSTIFICATION: The candidate demonstrated a strong architectural understanding...
-```
